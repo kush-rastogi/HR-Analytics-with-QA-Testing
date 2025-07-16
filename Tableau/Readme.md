@@ -12,3 +12,9 @@ This includes trendline and target line to help HR managers track progress towar
 • Advance Excel 👨‍💻 
 
 • Tableau 📈
+
+# 🔍 STEPS OVERVIEW:
+Data subset collected from online.
+Understanding the Data.
+Data Cleaning & Finding Missing values.
+Data Visualization.
