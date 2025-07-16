@@ -59,4 +59,5 @@ Created an HR Database in Postgre SQL, crafted SQL queries and created a quality
 ![Dashboard Preview](Tableau/Dashboard.png)
 
 # 💼 POWER BI DASHBOARD:
-![Dashboard Preview](Power BI/dashboard.png)
+![Dashboard Preview](Power%20BI/Dashboard.png)
+
