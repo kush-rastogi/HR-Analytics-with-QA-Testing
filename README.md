@@ -56,3 +56,7 @@ Created an HR Database in Postgre SQL, crafted SQL queries and created a quality
 * TESTING REPORT : Created a Test document containing the screenshots and queries used to test the reports.
 
 # 💼 TABLEAU DASHBOARD:
+![Dashboard Preview](Tableau/Dashboard.png)
+
+# 💼 POWER BI DASHBOARD:
+![Dashboard Preview](Power BI/dashboard.png)
