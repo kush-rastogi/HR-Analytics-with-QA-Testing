@@ -20,6 +20,7 @@ This includes trendline and target line to help HR managers track progress towar
 4. Data Visualization.
 
 💼 DATA CLEANING:
+
 Open Dataset in Excel and Make a Copy of Dataset for security purpose.
 
 Remove Duplicates.
