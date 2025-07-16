@@ -23,16 +23,16 @@ This includes trendline and target line to help HR managers track progress towar
 
 * Open Dataset in Excel and Make a Copy of Dataset for security purpose.
 
-Remove Duplicates.
+* Remove Duplicates.
 
-Change the formatting of necessary columns.
+* Change the formatting of necessary columns.
 
-Spell Check.
+* Spell Check.
 
-Change Case - Lower/Upper/Proper.
+* Change Case - Lower/Upper/Proper.
 
-Trim the unwanted spaces.
+* Trim the unwanted spaces.
 
-Remove null values if its not going to affect the result.
+* Remove null values if its not going to affect the result.
 
-Find & Replace.
+* Find & Replace.
